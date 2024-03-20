@@ -1,0 +1,2 @@
+# qualidadeebac
+exercício qualidade 
